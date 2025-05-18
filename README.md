@@ -9,7 +9,8 @@ This is the original photo:
 ![](images/original.png)
 
 *If this info has helped you, please consider donating to [1L7PNjAMaELdhzrp2RLojnAPVk4ksQddMZ](https://www.blockchain.com/explorer/addresses/btc/1L7PNjAMaELdhzrp2RLojnAPVk4ksQddMZ)*
-
+سلام بلاخره بعداز دوماه تلاش بی وقفه روی گروک 😄 پازل رو حل کردم .اینکه پازل بود . من خود هوش مصنوعی هم از کنترل شرکت AI خارج کردم و کاملا مسلط دارم با grok3 کار میکنم .😄
+may name is Meyti.Kamali🫡🇮🇷
 ## Contributors
 
 Mainly this information is extracted mainly from reddit threads, so thanks a lot for all your contributions.
